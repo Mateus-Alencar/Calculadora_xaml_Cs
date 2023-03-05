@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculadora_Simples.MainPage">
+
+    <StackLayout>
+        <Label Text="Calculadora Simples" HorizontalOptions="Center"/>
+        <Entry x:Name="etValorA" Keyboard="Numeric" Placeholder="Informe um número:"/>
+        <Entry x:Name="etValorB" Keyboard="Numeric" Placeholder="Informe outro número:"/>
+        <StackLayout Orientation="Horizontal">
+            <Button Text="+" Clicked="BtEx"/>
+            <Button Text="-" Clicked="BtEx"/>
+            <Button Text="/" Clicked="BtEx"/>
+            <Button Text="*" Clicked="BtEx"/>
+        </StackLayout>
+        <Label x:Name="lbResp" FontSize="32"/>
+    </StackLayout>
+
+</ContentPage>

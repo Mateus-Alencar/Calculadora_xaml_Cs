@@ -1,0 +1,15 @@
+C:\Users\mateus\Documents\Projetos\Calculadora_Simples\Calculadora_Simples\Calculadora_Simples\bin\Debug\netstandard2.0\Calculadora_Simples.deps.json
+C:\Users\mateus\Documents\Projetos\Calculadora_Simples\Calculadora_Simples\Calculadora_Simples\bin\Debug\netstandard2.0\Calculadora_Simples.dll
+C:\Users\mateus\Documents\Projetos\Calculadora_Simples\Calculadora_Simples\Calculadora_Simples\bin\Debug\netstandard2.0\Calculadora_Simples.pdb
+C:\Users\mateus\Documents\Projetos\Calculadora_Simples\Calculadora_Simples\Calculadora_Simples\obj\Debug\netstandard2.0\Calculadora_Simples.csproj.AssemblyReference.cache
+C:\Users\mateus\Documents\Projetos\Calculadora_Simples\Calculadora_Simples\Calculadora_Simples\obj\Debug\netstandard2.0\Calculadora_Simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus\Documents\Projetos\Calculadora_Simples\Calculadora_Simples\Calculadora_Simples\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mateus\Documents\Projetos\Calculadora_Simples\Calculadora_Simples\Calculadora_Simples\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mateus\Documents\Projetos\Calculadora_Simples\Calculadora_Simples\Calculadora_Simples\obj\Debug\netstandard2.0\Calculadora_Simples.AssemblyInfoInputs.cache
+C:\Users\mateus\Documents\Projetos\Calculadora_Simples\Calculadora_Simples\Calculadora_Simples\obj\Debug\netstandard2.0\Calculadora_Simples.AssemblyInfo.cs
+C:\Users\mateus\Documents\Projetos\Calculadora_Simples\Calculadora_Simples\Calculadora_Simples\obj\Debug\netstandard2.0\Calculadora_Simples.csproj.CoreCompileInputs.cache
+C:\Users\mateus\Documents\Projetos\Calculadora_Simples\Calculadora_Simples\Calculadora_Simples\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mateus\Documents\Projetos\Calculadora_Simples\Calculadora_Simples\Calculadora_Simples\obj\Debug\netstandard2.0\Calculadora_Simples.dll
+C:\Users\mateus\Documents\Projetos\Calculadora_Simples\Calculadora_Simples\Calculadora_Simples\obj\Debug\netstandard2.0\refint\Calculadora_Simples.dll
+C:\Users\mateus\Documents\Projetos\Calculadora_Simples\Calculadora_Simples\Calculadora_Simples\obj\Debug\netstandard2.0\Calculadora_Simples.pdb
+C:\Users\mateus\Documents\Projetos\Calculadora_Simples\Calculadora_Simples\Calculadora_Simples\obj\Debug\netstandard2.0\ref\Calculadora_Simples.dll
